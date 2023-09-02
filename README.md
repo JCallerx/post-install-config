@@ -27,7 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 
-![image](https://github.com/CopaceticWill/post-install-config/assets/137100082/d5dae9f3-5fc3-48dd-bf30-99a6d309497a)
+![image]
 
 </p>
 <p>
@@ -38,7 +38,7 @@ In this image, I configured Roles, Departments, and Teams to begin our workflow.
 
 <p>
 
-![image](https://github.com/CopaceticWill/post-install-config/assets/137100082/e0503c99-b00c-431e-abe4-61bc5abdb696)
+![image
 
 </p>
 <p>
@@ -52,7 +52,7 @@ In this portion, I reviewed and configured the SLA expectation by using the tier
 
 <p>
 
-![image](https://github.com/CopaceticWill/post-install-config/assets/137100082/c72ed192-f452-48c3-b1cb-5867d5ede187)
+![image]
   
 </p>
 <p>
